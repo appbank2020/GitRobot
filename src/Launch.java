@@ -1,5 +1,5 @@
 import com.sss.git.*;
-public class Launch {
+public class Launch { 
 	public static void main(String args[]){
 		int nParams = args.length;
 		String usage = "usage: java -classpath . -jar gitrobot.jar <apiUrl> <github id> <github password> <command> [<args>]\n\n";
